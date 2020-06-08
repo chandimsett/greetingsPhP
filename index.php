@@ -42,6 +42,7 @@ body {
 	background-image: url(newyear/mobile-bg/bg4.jpg);
 	background-repeat: repeat;
 }
+	  <!--Hi-->
   </style>
 </head>
 <body >
